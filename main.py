@@ -259,7 +259,16 @@ def main():
     while True:
         clear()
         print("""
-==== 🕵️ OSINT TOOL MENU ====
+
+ _   _   ___                          
+| | | | /   |                         
+| |_| |/ /| |_  _____  ___ __ _ _ __  
+|  _  / /_| \ \/ / __|/ __/ _` | '_ \ 
+| | | \___  |>  <\__ \ (_| (_| | | | |
+\_| |_/   |_/_/\_\___/\___\__,_|_| |_|
+                                      
+                                      
+
 1. Social Media Username Checker
 2. Instagram User Scraper
 3. DNS Record Lookup
